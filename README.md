@@ -3,10 +3,11 @@
 
 ## About Me
 
-🌱 **Applied Mathematician**
-   - Specialization: Uncertainty Quantification, Bayesian Statistics, Machine Learning, Mathematical & Statistical Modeling
-   - PhD in Applied Mathematics
-   - Based in the USA
+🎓 **Applied Mathematician**
+🔬 **Research Focus:** 
+   - **Uncertainty Quantification (UQ):** Enhancing model reliability by managing data variability.
+   - **Bayesian Statistics:** Developing probabilistic models for robust decision-making.
+   - **Mathematical and Statistical Modeling:** Applying advanced techniques to solve complex problems.
 
 ## Languages and Tools
 
