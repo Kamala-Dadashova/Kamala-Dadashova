@@ -4,7 +4,9 @@
 ## About Me
 
 🎓 **Applied Mathematician**
+
 🔬 **Research Focus:** 
+
    - **Uncertainty Quantification (UQ):** Enhancing model reliability by managing data variability.
    - **Bayesian Statistics:** Developing probabilistic models for robust decision-making.
    - **Mathematical and Statistical Modeling:** Applying advanced techniques to solve complex problems.
