@@ -27,7 +27,7 @@
 
 ## Published work
 
-- - ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white) [Google Scholar](https://scholar.google.com/citations?user=3bulmzoAAAAJ&hl=en)
+- ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white) [Google Scholar](https://scholar.google.com/citations?user=3bulmzoAAAAJ&hl=en)
 
 
 ## Contact Me
