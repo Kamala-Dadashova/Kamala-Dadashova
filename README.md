@@ -22,9 +22,10 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 
-## Papers
+## Published work
 
-- 
+- - ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white) [Google Scholar](https://scholar.google.com/citations?user=3bulmzoAAAAJ&hl=en)
+
 
 ## Contact Me
 
