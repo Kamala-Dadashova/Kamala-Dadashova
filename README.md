@@ -1,4 +1,4 @@
-# Hi there, I'm Kamala 👋
+# Kamala Dadashova, Ph.D.
 
 
 ## About Me
@@ -7,9 +7,9 @@
 
 🔬 **Research Focus:** 
 
-   - **Uncertainty Quantification (UQ):** Enhancing model reliability by managing data variability.
+   - **Uncertainty Quantification (UQ):** Determining how uncertainty in input parameters, model structure, or environmental conditions impacts the output or predictions of a model.
    - **Bayesian Statistics:** Developing probabilistic models for robust decision-making.
-   - **Mathematical and Statistical Modeling:** Applying advanced techniques to solve complex problems.
+
 
 ## Languages and Tools
 
