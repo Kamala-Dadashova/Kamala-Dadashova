@@ -5,9 +5,10 @@ Currently a **Ph.D. Candidate** passionate about removing uncertainty in complex
 The objective is to transform raw data into actionable insights, ensure robust predictions, and optimize decision-making processes.  
 
 ### My recent work includes:  
-- **Revolutionizing pharmaceutical modeling** by improving parameter estimation and predictive accuracy.  
-- **Automating workflows** for computational models to streamline real-world applications in healthcare and technology.  
-  
+- Pushing the boundaries of predictive modeling by refining parameter estimation techniques to achieve accurate and reliable predictions.
+- Automating predictive workflows to streamline complex computational models for impactful applications in healthcare and technology.
+
+
 ---
 
 ## 📂 Curious about what I’ve been up to?  
