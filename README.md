@@ -11,7 +11,7 @@ The objective is to transform raw data into actionable insights, ensure robust p
 ---
 
 ## 📂 Curious about what I’ve been up to?  
-- 🛠️ Check out my **projects**: [GitHub Portfolio](https://github.com/yourusername)  
+- 🛠️ Check out my **projects**: [GitHub Portfolio]([https://github.com/yourusername](https://github.com/Kamala-Dadashova?tab=repositories))  
 - 📄 Browse my **resume**: [Resume Link](https://github.com/yourusername/resume.pdf)  
 
 ---
