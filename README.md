@@ -25,7 +25,7 @@ The objective is to transform raw data into actionable insights, ensure robust p
 
 ## ✨ Fun Facts  
 🌊 I’m a swimmer who finds peace and rhythm in the butterfly stroke, much like the clarity that comes from solving a complex problem. 
-📚 When not coding, I’m probably reading about the intersection of **math, neuroscience, and technology**.  
+📚 When not coding, I’m probably reading about the intersection of **math, statistics, neuroscience, and technology**.  
 
 ---
 
