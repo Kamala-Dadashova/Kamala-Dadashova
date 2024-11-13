@@ -6,8 +6,7 @@ The objective is to transform raw data into actionable insights, ensure robust p
 
 ### My recent work includes:  
 - Pushing the boundaries of predictive modeling by refining parameter estimation techniques to achieve reliable predictions.
-- Automating predictive workflows to streamline complex computational models for impactful applications in healthcare and technology.
-
+- Designing robust algorithms to advance predictive workflows, streamlining computational models for impactful solutions.
 
 ---
 
