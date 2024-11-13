@@ -1,23 +1,22 @@
-# 🚀 Data Scientist | Applied Mathematician | Innovator  
+# 🚀 Data Scientist | Applied Mathematician |
 
-## 🔍 What I’m Working On  
-Currently diving deep into **Bayesian modeling** and **machine learning pipelines** to transform raw data into actionable insights.  
+## 🔍 About Me  
+Currently a **Ph.D. Candidate** passionate about removing uncertainty in complex models using advanced **Bayesian modeling** and **machine learning pipelines**. 
+The objective is to transform raw data into actionable insights, ensure robust predictions, and optimize decision-making processes.  
 
 ### My recent work includes:  
-- Predicting key trends in **pharmaceutical modeling**  
-- Exploring innovative ways to **automate workflows** for computational models in health and technology  
-
+- **Revolutionizing pharmaceutical modeling** by improving parameter estimation and predictive accuracy.  
+- **Automating workflows** for computational models to streamline real-world applications in healthcare and technology.  
+  
 ---
 
-## 📂 A Peek at My Work  
-Curious about what I’ve been up to?  
+## 📂 Curious about what I’ve been up to?  
 - 🛠️ Check out my **projects**: [GitHub Portfolio](https://github.com/yourusername)  
 - 📄 Browse my **resume**: [Resume Link](https://github.com/yourusername/resume.pdf)  
 
 ---
 
-## 💬 Let’s Talk About...  
-Ask me about:  
+## 💬 Ask me about...  
 - Building **data-driven models**  
 - **Bayesian statistics** and computational modeling  
 - Turning tough **mathematical problems** into elegant solutions  
