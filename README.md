@@ -1,11 +1,11 @@
-# 🚀 Data Scientist | Applied Mathematician |
+# 🚀 Data Scientist | Applied Mathematician 
 
 ## 🔍 About Me  
 Currently a **Ph.D. Candidate** passionate about removing uncertainty in complex models using advanced **Bayesian modeling** and **machine learning pipelines**. 
 The objective is to transform raw data into actionable insights, ensure robust predictions, and optimize decision-making processes.  
 
 ### My recent work includes:  
-- Pushing the boundaries of predictive modeling by refining parameter estimation techniques to achieve accurate and reliable predictions.
+- Pushing the boundaries of predictive modeling by refining parameter estimation techniques to achieve reliable predictions.
 - Automating predictive workflows to streamline complex computational models for impactful applications in healthcare and technology.
 
 
