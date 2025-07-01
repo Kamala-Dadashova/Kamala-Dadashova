@@ -9,7 +9,7 @@ Data-driven scientist with a Ph.D. in Applied Mathematics (May 2025), specializi
 ## 🔬 Recent Highlights  
 <div align="justify">
 <ul>
-  <li>Developed a computationally efficient parameter subset selection algorithm to identify the most influential parameters in the model.</li>
+  <li>Constucted a computationally efficient parameter subset selection algorithm to find the most influential parameters in the model.</li>
   <li>Enhanced Bayesian parameter estimation pipelines to improve predictive accuracy and model interpretability.</li>
   <li>Built and validated virtual populations for synthetic data generation, supporting model-informed decision-making.</li>
 </ul>
