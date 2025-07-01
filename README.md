@@ -1,6 +1,5 @@
 # Applied Scientist | Ph.D. in Applied Mathematics @ NCSU
-
-## 🔍 About Me  
+ 
 Data-driven scientist with a Ph.D. in Applied Mathematics (May 2025), specializing in **Bayesian modeling**, **Uncertainty Quantification**, and **Machine Learning**. I design algorithms and implement them on models that extract insights from data, quantify risk, and optimize decision-making in complex systems. My work integrates mathematical rigor with scalable computation, delivering predictive tools that drive impactful, real-world solutions.
 
 
