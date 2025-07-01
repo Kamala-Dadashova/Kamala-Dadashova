@@ -7,9 +7,11 @@ Data-driven scientist with a Ph.D. in Applied Mathematics (May 2025), specializi
 
 
 ## 🔬 Recent Highlights  
-- Developed a **computationally efficient parameter subset selection algorithm** to identify the most influential parameters in the model for a given dataset 
-- Enhanced **Bayesian parameter estimation** pipelines to improve predictive accuracy and model interpretability   
-- Built and validated **virtual populations** for synthetic data generation, supporting model-informed decision-making 
+<p align="justify">
+- Developed a computationally efficient parameter subset selection algorithm to identify the most influential parameters in the model
+- Enhanced Bayesian parameter estimation pipelines to improve predictive accuracy and model interpretability   
+- Built and validated virtual populations for synthetic data generation, supporting model-informed decision-making 
+</p>
 
 
 ## 📁Explore  
@@ -22,8 +24,10 @@ Data-driven scientist with a Ph.D. in Applied Mathematics (May 2025), specializi
 - Turning complex math into real-world impact
 - Fav Quote: Good science starts with uncertainty. Bayesian thinking lets us turn doubt into direction!!!
 
-## ✨ Fun Fact  
-I’m a swimmer, specializing in butterfly. It’s how I approach modeling problems: rhythm, focus, and flow. 
+## ✨ Fun Fact 
+<p align="justify"> 
+I’m a swimmer, and my favorite style is butterfly. It’s how I approach modeling problems: rhythm, focus, and flow. 
+</p>
 
 ---
 
