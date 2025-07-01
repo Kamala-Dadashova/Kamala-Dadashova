@@ -1,31 +1,26 @@
-# 🚀 Data Scientist | Applied Mathematician 
+# 🚀 Applied Scientist | Ph.D. in Applied Mathematics @ NCSU
 
 ## 🔍 About Me  
-Currently a **Ph.D. Candidate** passionate about removing uncertainty in complex models using **Bayesian modeling** and **machine learning pipelines**. 
-The objective is to transform raw data into actionable insights, ensure robust predictions, and optimize decision-making processes.  
+Data-driven scientist with a Ph.D. in Applied Mathematics (May 2025), specializing in **Bayesian modeling**, **Uncertainty Quantification**, and **Machine Learning**. I design algorithms and implement them on models that **extract insights from noisy data**, quantify risk, and **optimize decision-making** in complex systems. My work integrates **mathematical rigor** with **scalable computation**, delivering predictive tools that drive impactful, real-world solutions.
 
-### My recent work includes:  
-- Pushing the boundaries of predictive modeling by refining parameter estimation techniques to achieve reliable predictions.
-- Designing robust algorithms to advance predictive workflows, streamlining computational models for impactful solutions.
+## 🔬 Recent Highlights  
+- Developed a **computationally efficient parameter subset selection algorithm** to identify the most influential parameters in the model for a given dataset 
+- Enhanced **Bayesian parameter estimation** pipelines to improve predictive accuracy and model interpretability   
+- Built and validated **virtual populations** for synthetic data generation, supporting model-informed decision-making 
 
----
 
-## 📂 Curious about what I’ve been up to?  
-- 🛠️ Check out my **projects**: [GitHub Portfolio](https://github.com/Kamala-Dadashova?tab=repositories)
-- 📄 Browse my **resume**: [Resume Link](https://github.com/yourusername/resume.pdf)  
+## 📁Explore  
+- 🧪 Projects: [Published Results](https://scholar.google.com/citations?user=3bulmzoAAAAJ&hl=en)  
 
----
 
-## 💬 Ask me about...  
-- Building **data-driven models**  
-- **Bayesian statistics** and computational modeling  
-- Turning tough **mathematical problems** into elegant solutions  
+## 💡 Ask Me About  
+- Bayesian statistics & uncertainty quantification  
+- End-to-end ML pipelines 
+- Turning complex math into real-world impact
+- Fav Quote: Good science starts with uncertainty. Bayesian thinking lets us turn doubt into direction!!!
 
----
-
-## ✨ Fun Facts  
-🌊 I’m a swimmer who finds peace and rhythm in the butterfly stroke, much like the clarity that comes from solving a complex problem. 
-📚 When not coding, I’m probably reading about the intersection of **math, statistics, neuroscience, and technology**.  
+## ✨ Fun Fact  
+I’m a swimmer, specializing in butterfly. It’s how I approach modeling problems: rhythm, focus, and flow. 
 
 ---
 
